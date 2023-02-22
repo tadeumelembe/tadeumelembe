@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **tadeumelembe@protonmail.ch**
+- 📫 How to reach me **tadeumelembe@protonmail.ch** **+258820896638**
 
 - ⚡ I´m passionate about development, music, formula1, tennis.
 
