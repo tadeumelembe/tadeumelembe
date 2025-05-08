@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **tadeumelembe@gmail.com** **+258820896638**
+- 📫 How to reach me **tadeumelembe@gmail.com**
 
 - ⚡ I´m passionate about development, music, formula1, tennis.
 
