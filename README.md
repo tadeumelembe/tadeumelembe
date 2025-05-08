@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tadeu Melembe</h1>
-<h5 align="left">I´m fullstack web developer.I´m passionate about web development. It makes me a "hero". It gives me the ability to solve people´s daily problems and make their lives easier and better by providing innovative solutions and awesome experience!</h5>
+<h5 align="left">I´m fullstack developer. I´m passionate about web and mobile development</h5>
 
 <br>
 
